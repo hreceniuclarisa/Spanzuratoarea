@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1686736331 source:c:\users\laris\onedrive\desktop\spanzuratoarea\functii.cpp
+	<iostream>
+	"functii.h"
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<dos.h>
+
+1686736281 c:\users\laris\onedrive\desktop\spanzuratoarea\functii.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+
+1686736332 source:c:\users\laris\onedrive\desktop\spanzuratoarea\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+	"functii.h"
+
